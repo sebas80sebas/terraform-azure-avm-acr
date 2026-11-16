@@ -1,0 +1,4 @@
+# module
+module: Azure Container Registry
+# version control
+version: 1.0.0
